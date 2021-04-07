@@ -20,7 +20,7 @@ namespace Newpro
 
             for (int b = 1; b < 20; b++)
             {
-                Console.WriteLine(b);
+                Console.WriteLine("b");
             }
             Console.ReadLine();
         }
