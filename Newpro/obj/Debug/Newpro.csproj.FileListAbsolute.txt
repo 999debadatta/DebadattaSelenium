@@ -1,0 +1,7 @@
+C:\Users\debad\Source\Repos\Newpro\Newpro\bin\Debug\Newpro.exe.config
+C:\Users\debad\Source\Repos\Newpro\Newpro\bin\Debug\Newpro.exe
+C:\Users\debad\Source\Repos\Newpro\Newpro\bin\Debug\Newpro.pdb
+C:\Users\debad\Source\Repos\Newpro\Newpro\obj\Debug\Newpro.csprojAssemblyReference.cache
+C:\Users\debad\Source\Repos\Newpro\Newpro\obj\Debug\Newpro.csproj.CoreCompileInputs.cache
+C:\Users\debad\Source\Repos\Newpro\Newpro\obj\Debug\Newpro.exe
+C:\Users\debad\Source\Repos\Newpro\Newpro\obj\Debug\Newpro.pdb
